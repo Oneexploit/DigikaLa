@@ -82,13 +82,13 @@ Or
 [product-screenshot]: ./Readme-files/digikala-preview.jpg
 
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://instagram.com/roshanak_roshani01?igshid=NDk5N2NlZjQ=
+[instagram-url]: https://instagram.com/im_amir.01
 [linkedin-shield]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]:https://www.linkedin.com/in/roshanak-roshani-0485a2232
+[linkedin-url]:https://www.linkedin.com/in/amirhosein-nafar
 [github-shield]:https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[github-url]:https://github.com/roshana01
+[github-url]:https://github.com/Oneexploit
 [telegram-shield]:https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-[telegram-url]:https://t.me/rshnk_09
+[telegram-url]:https://t.me/#
 [html]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
