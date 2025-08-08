@@ -25,8 +25,7 @@ exactly like the main site
 
 I was facing many challenges, for example, menus and sub-menus and ...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ 
 
 
 ### Built With
@@ -35,8 +34,7 @@ I was facing many challenges, for example, menus and sub-menus and ...
 * ![css]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ 
 
 
 <!-- GETTING STARTED -->
@@ -50,20 +48,14 @@ nothing need to run .
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/roshana01/digikala-template.git
+   git clone https://github.com/Oneexploit/DigikaLa.git
    ```
 2. Open
    ```sh
     index.html
    ```
-Or
-1. Open this link on your browser
-    ```sh
-    https://roshana01.github.io/digikala-template/
-    ```
     
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ 
 <!-- contact -->
 ## Contact
 ### Roshanak Roshani </br>
